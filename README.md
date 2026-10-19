@@ -166,7 +166,7 @@ streamlit run app.py
 
 **Roshan Chouhan**
 
-GitHub: https://github.com/roshanchouhan-ai
+GitHub: https://github.com/vishal9198
 
 ---
 
