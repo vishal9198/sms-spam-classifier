@@ -8,7 +8,7 @@ The project includes the complete ML workflow—from data preprocessing and expl
 
 ## 🌐 Live Demo
 
-🔗 https://roshan-spam-classifier.streamlit.app
+🔗 https://sms-spam-classifier-c9tksn7st2hrwoclzy3fji.streamlit.app/
 
 ---
 
