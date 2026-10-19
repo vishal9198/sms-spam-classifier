@@ -164,7 +164,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Roshan Chouhan**
+**Vishal Kumar**
 
 GitHub: https://github.com/vishal9198
 
